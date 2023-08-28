@@ -1,0 +1,1282 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+ 
+    
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .header-search {
+        justify-content: flex-start;
+        margin-top:20px;
+    }
+    .header-search input {
+        max-width:100%;
+    }
+    .visibility-content {
+        max-width:100%;
+    }
+    /* .responsive-table {
+        overflow-x:auto;
+    }
+    .contributions-table {
+        width:1500px;
+    }
+    .current-agreement-content {
+        width:100%;
+    } */
+
+
+
+    .deshboard-left h2 {
+        font-size:35px;
+        line-height:40px;
+    }
+    .deshboard-left p {
+        font-size: 16px;
+        line-height:22px;
+    }
+    .deshboard-left > a {
+        font-size:12px;
+    }
+    .deshboard-right {
+        margin-top:30px;
+    }
+    .deshboard-right h3 {
+        font-size:22px;
+    }
+    .active-date h4 {
+        font-size:18px;
+        line-height:26px;
+    }
+    .active-date p {
+        font-size:14px;
+        line-height:24px;
+    }
+    .deshboard-right > a {
+        font-size:12px;
+    }
+    .deshboard-row {
+        padding:30px 0;
+    }
+    .visibility-area {
+        margin-top:50px;
+    }
+    .agreement-area {
+        margin-top:50px;
+    }
+    .resetpass-col {
+        min-height:400px;
+    }
+    .signin-area {
+        padding:70px 0;
+    }
+    footer {
+        padding-top:25px;
+        padding-bottom:20px;
+    }
+    .likeadd-header h2 {
+        font-size:30px;
+        line-height: 46px;
+    }
+    .likeadd-header p {
+        font-size:14px;
+        line-height: 26px;
+    }
+    .signin-logo a {
+        font-size:50px;
+        line-height: 70px;
+        margin-bottom: 48px;
+    }
+    .footer-item > a {
+        margin-bottom:20px;
+        display: inline-block;
+    }
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    .header-search {
+        justify-content: flex-start;
+        margin-top:20px;
+    }
+    .header-search input {
+        max-width:100%;
+    }
+    .visibility-content {
+        max-width:100%;
+    }
+    /* .responsive-table {
+        overflow-x:auto;
+    }
+    .contributions-table {
+        width:1500px;
+    }
+    .current-agreement-content {
+        width:100%;
+    } */
+
+
+
+    .deshboard-left h2 {
+        font-size:25px;
+        line-height:40px;
+    }
+    .deshboard-left p {
+        font-size: 12px;
+        line-height:22px;
+    }
+    .deshboard-left > a {
+        font-size:12px;
+    }
+    .deshboard-right {
+        margin-top:20px;
+    }
+    .deshboard-right h3 {
+        font-size:18px;
+    }
+    .active-date h4 {
+        font-size:14px;
+        line-height:26px;
+    }
+    .active-date p {
+        font-size:14px;
+        line-height:24px;
+    }
+    .deshboard-right > a {
+        font-size:12px;
+    }
+    .deshboard-row {
+        padding:30px 0;
+    }
+    .visibility-area {
+        margin-top:50px;
+    }
+    .agreement-area {
+        margin-top:50px;
+    }
+    .resetpass-col {
+        min-height:400px;
+    }
+    .signin-area {
+        padding:70px 0;
+    }
+    footer {
+        padding-top:25px;
+        padding-bottom:20px;
+    }
+    .likeadd-header h2 {
+        font-size:30px;
+        line-height: 46px;
+    }
+    .likeadd-header p {
+        font-size:14px;
+        line-height: 26px;
+    }
+    .signin-logo a {
+        font-size:50px;
+        line-height: 70px;
+        margin-bottom: 48px;
+    }
+    .footer-item > a {
+        margin-bottom:20px;
+        display: inline-block;
+    }
+
+
+
+    .deshboard-header ul li:last-child a {
+        font-weight: 400;
+        font-size:14px;
+        line-height: 24px;
+        text-decoration: none;
+        color: #595959;
+        padding: 10px 10px;
+    }
+    .deshboard-header ul {
+        display: flex;
+        align-items:flex-end;
+    }
+    .deshboard-right h3 img {
+        width:10px;
+    }
+    .logo a {
+        font-size:30px;
+    }
+    .sh-left button:first-child {
+        width: 100%;
+        max-width: 120px;
+        min-height:40px;
+        font-size:10px;
+        gap:2px;
+    }
+    .sh-left button:last-child {
+        width: 100%;
+        max-width: 100px;
+        min-height:40px;
+        font-size:10px;
+    }
+    .sh-left button img{
+        width:10px;
+    }
+    .sh-right button:first-child {
+        width: 100%;
+        max-width: 80px;
+        min-height:40px;
+        font-size:10px;
+        line-height:18px;
+        gap:2px;
+    }
+    .sh-right button img {
+        width:12px;
+    }
+    .sh-right button:last-child {
+        width: 100%;
+        max-width:100px;
+        min-height:40px;
+        font-size:10px;
+    }
+    .subscribe-left > input {
+        width: 100%;
+        min-height:40px;
+        padding:8px;
+        font-size:12px;
+        line-height:18px;
+    }
+    .subscribe-header {
+        margin-bottom:15px;
+    }
+    .activity-header h4 {
+        font-size:16px;
+        line-height: 26px;
+    }
+    .activity-type ul li {
+        font-size:12px;
+        line-height:24px;
+        gap:10px;
+        margin-bottom:5px;
+    }
+    .activity-type ul li img {
+        width:20px;
+    }
+    .activity-header {
+        margin-bottom:5px;
+    }
+    .sr-date {
+        width: 100%;
+        min-height:25px;
+        margin-bottom:10px;
+    }
+    .subscribe-left {
+        margin-bottom:10px;
+    }
+    .sr-right-profile-header a {
+        gap:5px;
+        font-size:12px;
+    }
+    .sr-right-profile-header a img {
+        width:15px;
+    }
+    .sr-right-profile-header {
+        margin-bottom:8px;
+    }
+    .srpb-track h6 {
+        font-size:12px;
+    }
+    .srpb-track {
+        padding-bottom:5px;
+        border-bottom:1px solid #DFDFDF;
+        margin-bottom:5px;
+    }
+    .sr-right-profile-body > h3 {
+        font-size:14px;
+        margin-bottom:0;
+    }
+    .srpb-track a {
+        font-size:12px;;
+    }
+    .sr-right-profile-body > p {
+        font-size:12px;
+    }
+    .sr-right-profile-body > a {
+        font-size:12px;
+    }
+    .sr-right-profile-footer label {
+        font-size:14px;
+    }
+    .sr-right-profile-footer label span {
+        font-size:14px;
+    }
+    .sr-right-profile-footer label img {
+        margin-right:5px;
+        width:10px;
+    }
+    .sr-right-profile-body > h4 {
+        font-size:14px;
+    }
+    .srpb-track h6 span {
+        font-size:12px;
+    }
+    .sr-date h4 {
+        font-size:12px;
+    }
+    .edittext h3 {
+        font-size:14px;
+        line-height:20px;
+        color: #595959;
+        margin-bottom: 4px;
+    }
+    .edittext a {
+        font-size:12px;
+        line-height: 20px;
+    }
+    .sr-right-profile-body > h3 img {
+        margin-right:5px;
+        width:10px;
+    }
+    .sr-right-profile-footer {
+        padding:10px 24px;
+    }
+    .srpf-extra h4 {
+        font-size:12px;
+    }
+    .sr-right-profile-body {
+        padding-bottom:10px;
+    }
+    .visibility-area {
+        margin-top:20px;
+    }
+    .visibility-header h4 {
+        font-size:14px;
+        margin-bottom:5px;
+    }
+    .vcheckbox span {
+        font-size:12px;
+    }
+    .visibility-header {
+        margin-bottom:15px;
+    }
+    .vform-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .vform-item input {
+        border: 0;
+        outline: none;
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+        padding: 0 8px;
+    }
+    .vform-item {
+        margin-bottom:15px;
+    }
+    .vform-item span {
+        font-size:12px;
+    }
+    .whywork-area label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .whywork-textbox p {
+        font-size:12px;
+    }
+    .whywork-textbox {
+        width: 100%;
+        height: 125px;
+        padding:8px;
+    }
+    .whywork-textbox ul li {
+        font-size:12px;
+        line-height:20px;
+    }
+    .whywork-area > span {
+        font-size:12px;
+        margin-top:8px;
+    }
+    .tag-area h3 {
+        font-size:12px;
+    }
+    .tag-area input {
+        width: 100%;
+        min-height:40px;
+        padding: 0 8px;
+        font-size:12px;
+        line-height:20px;
+        margin-bottom: 10px;
+    }
+    .tag-area ul li span {
+        font-size:8px;
+        line-height:15px;
+        padding: 2px 5px;
+    }
+    .tag-area ul li img {
+        cursor: pointer;
+        width:10px;
+        margin-top:5px;
+    }
+    .update-btn {
+        margin-top:20px;
+        gap:10px;
+    }
+    .update-btn button {
+        width: 100%;
+        max-width: 120px;
+        min-height:35px;
+        border-radius:27px;
+        font-size:12px;
+        line-height:20px;
+        color: #FFFFFF;
+    }
+    .update-btn a {
+        font-size:12px;
+        line-height:18px;
+    }
+    .addagree-btn {
+        gap:10px;
+        margin-top:15px;
+    }
+    .add-agreement-body label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .addagree-btn button {
+        width: 100%;
+        max-width:80px;
+        min-height:40px;
+        border-radius:20px;
+        font-weight: 600;
+        font-size:12px;
+    }
+    .addagree-btn a {
+        font-size:12px;
+        line-height:14px;
+    }
+    .current-agreement-content h2 {
+        font-size:20px;
+        line-height:25px;
+    }
+    .ca-body-left a {
+        font-weight: 400;
+        font-size:14px;
+        line-height:25px;
+    }
+    .ca-body {
+        padding:10px 0;
+        gap:20px;
+    }
+    .ca-header h6 {
+        font-size:14px;
+        line-height: 24px;
+        gap:5px;
+    }
+    .ca-body-right ul li img {
+        width:15px;
+    }
+    .ca-body-right ul {
+        gap:10px;
+    }
+    .add-agreement-header h3 {
+        font-size:20px;
+        line-height:25px;
+        margin-bottom:15px;
+    }
+    .add-agreement-body select {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+    }
+    .initiatives-table tr td {
+        padding:5px 0;
+        border-bottom:1px solid #DFDFDF;
+    }
+    .initiatives-table tr td:first-child a {
+        font-size:14px;
+        line-height:25px;
+    }
+    .initiatives-table tr td:nth-child(2) {
+        font-size:14px;
+        line-height: 26px;
+    }
+    .checkbox-item ul li input {
+        width:18px;
+        height:18px;
+    }
+    .date-update input {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+    }
+    .struggling ul li {
+        font-size: 12px;
+    }
+    .p-status {
+        margin-top:15px;
+    }
+    .mt20px {
+        margin-top:10px !important;
+    }
+    .comment {
+        margin-top:20px;
+    }
+    .comment textarea {
+        width: 100%;
+        min-height:100px;
+        font-size:12px;
+    }
+    .progress-table tr td:nth-child(2) a {
+        font-size:16px;
+        line-height: 34px;
+    }
+    .progress-table tr td:nth-child(3) a {
+        font-size:14px;
+        line-height: 34px;
+    }
+    .current-agreement-content {
+        margin-top:30px;
+    }
+    .se-date-item input {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+        padding: 0 10px;
+    }
+    .se-date-item {
+        margin-top:15px;
+    }
+    .contributions-table tr th {
+        font-size:14px;
+        line-height: 24px;
+        color: #595959;
+    }
+    .ctr2 td:nth-child(1) a {
+        font-size:14px;
+    }
+    .ctr2 td:nth-child(2) {
+        font-size: 14px;
+    }
+    .ctr2 td:nth-child(3) {
+        font-size: 14px;
+    }
+    .ctr3 td:nth-child(1) span {
+        font-size:14px;
+    }
+    .ctr5 td:nth-child(1) {
+        font-size:14px;
+    }
+    .ctr5 td:nth-child(1) a {
+        font-size:14px;
+    }
+    .likeadd-header h2 {
+        font-size:22px;
+        line-height:25px;
+    }
+    .likeadd-header p {
+        font-size:12px;
+        line-height:20px;
+    }
+    .likeadd-header {
+        margin-bottom:20px;
+    }
+    .likeadd-area {
+        margin-top:40px;
+        padding-top:40px;
+        border-top: 1px solid #1E1E1E;
+    }
+    .resetpass-item h4 {
+        font-size:25px;
+        line-height:30px;
+        margin-bottom:10px;
+    }
+    .resetpass-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .submit-btn button {
+        font-size:12px;
+    }
+    .resetpass-col {
+        min-height:350px;
+    }
+    .signin-logo a {
+        font-size:35px;
+        line-height:40px;
+        margin-bottom:40px;
+    }
+    .signin-item form > h4 {
+        font-size:25px;
+        line-height:26px;
+        margin-bottom:10px;
+    }
+    .signin-input-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .signin-input-area {
+        gap:10px;
+    }
+    .signin-login-btn label  {
+        font-size:12px;
+        gap:5px;
+    }
+    .signin-login-btn button{
+        font-size:12px;
+    }
+    .signin-login-btn button {
+        margin-top:10px;
+    }
+    .signin-area {
+        padding:30px 0;
+    }
+    .signin-item form > a {
+        font-size:12px;
+        margin-top:15px;
+    }
+    .signin-google-area h4 {
+        font-size:14px;
+        margin-bottom:0;
+    }
+    .signin-google-area a {
+        border:2px solid #DFDFDF;
+        font-size:12px;
+        padding:10px;
+    }
+    .signin-google-area a img {
+        margin-left:5px;
+        width:13px;
+    }
+    .footer-item ul li {
+        margin-bottom:5px;
+    }
+    .footer-item ul li a {
+        font-size:14px;
+    }
+    .footer-item > a img {
+        width:100px;
+    }
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+    .header-search {
+        justify-content: flex-start;
+        margin-top:20px;
+    }
+    .header-search input {
+        max-width:100%;
+    }
+    .visibility-content {
+        max-width:100%;
+    }
+    /* .responsive-table {
+        overflow-x:auto;
+    }
+    .contributions-table {
+        width:1500px;
+    }
+    .current-agreement-content {
+        width:100%;
+    } */
+
+    .deshboard-header ul li:first-child a {
+        font-size:12px;
+        line-height: 24px;
+        text-decoration-line: underline;
+        color: #2DAEB7;
+        padding:13px 15px;
+    }
+
+    .deshboard-left h2 {
+        font-size:20px;
+        line-height:25px;
+    }
+    .deshboard-left p {
+        font-size:12px;
+        line-height:18px;
+        margin-bottom:5px;
+    }
+    .deshboard-left > a {
+        font-size:12px;
+    }
+    .deshboard-right {
+        margin-top:20px;
+    }
+    .deshboard-right h3 {
+        font-size:18px;
+    }
+    .active-date h4 {
+        font-size:14px;
+        line-height:26px;
+    }
+    .active-date p {
+        font-size:14px;
+        line-height:24px;
+    }
+    .deshboard-right > a {
+        font-size:12px;
+    }
+    .deshboard-row {
+        padding:30px 0;
+    }
+    .visibility-area {
+        margin-top:50px;
+    }
+    .agreement-area {
+        margin-top:50px;
+    }
+    .resetpass-col {
+        min-height:400px;
+    }
+    .signin-area {
+        padding:70px 0;
+    }
+    footer {
+        padding-top:25px;
+        padding-bottom:20px;
+    }
+    .likeadd-header h2 {
+        font-size:30px;
+        line-height: 46px;
+    }
+    .likeadd-header p {
+        font-size:14px;
+        line-height: 26px;
+    }
+    .signin-logo a {
+        font-size:50px;
+        line-height: 70px;
+        margin-bottom: 48px;
+    }
+    .footer-item > a {
+        margin-bottom:20px;
+        display: inline-block;
+    }
+
+
+    .deshboard-header > a {
+        font-size:14px;
+    }
+    .deshboard-header ul li:last-child a {
+        font-weight: 400;
+        font-size:14px;
+        line-height: 24px;
+        text-decoration: none;
+        color: #595959;
+        padding: 10px 10px;
+    }
+    .deshboard-header ul {
+        display: flex;
+        align-items:flex-end;
+    }
+    .deshboard-right h3 img {
+        width:10px;
+    }
+    .logo a {
+        font-size:25px;
+    }
+    .sh-left button:first-child {
+        width: 100%;
+        max-width: 120px;
+        min-height:40px;
+        font-size:10px;
+        gap:2px;
+    }
+    .sh-left button:last-child {
+        width: 100%;
+        max-width: 100px;
+        min-height:40px;
+        font-size:10px;
+    }
+    .sh-left button img{
+        width:10px;
+    }
+    .sh-right button:first-child {
+        width: 100%;
+        max-width: 80px;
+        min-height:40px;
+        font-size:10px;
+        line-height:18px;
+        gap:2px;
+    }
+    .sh-right button img {
+        width:12px;
+    }
+    .sh-right button:last-child {
+        width: 100%;
+        max-width:100px;
+        min-height:40px;
+        font-size:10px;
+    }
+    .subscribe-left > input {
+        width: 100%;
+        min-height:40px;
+        padding:8px;
+        font-size:12px;
+        line-height:18px;
+    }
+    .subscribe-header {
+        margin-bottom:15px;
+    }
+    .activity-header h4 {
+        font-size:16px;
+        line-height: 26px;
+    }
+    .activity-type ul li {
+        font-size:12px;
+        line-height:24px;
+        gap:10px;
+        margin-bottom:5px;
+    }
+    .activity-type ul li img {
+        width:20px;
+    }
+    .activity-header {
+        margin-bottom:5px;
+    }
+    .sr-date {
+        width: 100%;
+        min-height:25px;
+        margin-bottom:10px;
+    }
+    .subscribe-left {
+        margin-bottom:10px;
+    }
+    .sr-right-profile-header a {
+        gap:5px;
+        font-size:12px;
+    }
+    .sr-right-profile-header a img {
+        width:15px;
+    }
+    .sr-right-profile-header {
+        margin-bottom:8px;
+    }
+    .srpb-track h6 {
+        font-size:12px;
+    }
+    .srpb-track {
+        padding-bottom:5px;
+        border-bottom:1px solid #DFDFDF;
+        margin-bottom:5px;
+    }
+    .sr-right-profile-body > h3 {
+        font-size:14px;
+        margin-bottom:0;
+    }
+    .srpb-track a {
+        font-size:12px;;
+    }
+    .sr-right-profile-body > p {
+        font-size:12px;
+    }
+    .sr-right-profile-body > a {
+        font-size:12px;
+    }
+    .sr-right-profile-footer label {
+        font-size:14px;
+    }
+    .sr-right-profile-footer label span {
+        font-size:14px;
+    }
+    .sr-right-profile-footer label img {
+        margin-right:5px;
+        width:10px;
+    }
+    .sr-right-profile-body > h4 {
+        font-size:14px;
+    }
+    .srpb-track h6 span {
+        font-size:12px;
+    }
+    .sr-date h4 {
+        font-size:12px;
+    }
+    .edittext h3 {
+        font-size:14px;
+        line-height:20px;
+        color: #595959;
+        margin-bottom: 4px;
+    }
+    .edittext a {
+        font-size:12px;
+        line-height: 20px;
+    }
+    .sr-right-profile-body > h3 img {
+        margin-right:5px;
+        width:10px;
+    }
+    .sr-right-profile-footer {
+        padding:10px 24px;
+    }
+    .srpf-extra h4 {
+        font-size:12px;
+    }
+    .sr-right-profile-body {
+        padding-bottom:10px;
+    }
+    .visibility-area {
+        margin-top:20px;
+    }
+    .visibility-header h4 {
+        font-size:14px;
+        margin-bottom:5px;
+    }
+    .vcheckbox span {
+        font-size:12px;
+    }
+    .visibility-header {
+        margin-bottom:15px;
+    }
+    .vform-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .vform-item input {
+        border: 0;
+        outline: none;
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+        padding: 0 8px;
+    }
+    .vform-item {
+        margin-bottom:15px;
+    }
+    .vform-item span {
+        font-size:12px;
+    }
+    .whywork-area label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .whywork-textbox p {
+        font-size:12px;
+    }
+    .whywork-textbox {
+        width: 100%;
+        height: 125px;
+        padding:8px;
+    }
+    .whywork-textbox ul li {
+        font-size:12px;
+        line-height:20px;
+    }
+    .whywork-area > span {
+        font-size:12px;
+        margin-top:8px;
+    }
+    .tag-area h3 {
+        font-size:12px;
+    }
+    .tag-area input {
+        width: 100%;
+        min-height:40px;
+        padding: 0 8px;
+        font-size:12px;
+        line-height:20px;
+        margin-bottom: 10px;
+    }
+    .tag-area ul li span {
+        font-size:8px;
+        line-height:15px;
+        padding: 2px 5px;
+    }
+    .tag-area ul li img {
+        cursor: pointer;
+        width:10px;
+        margin-top:5px;
+    }
+    .update-btn {
+        margin-top:20px;
+        gap:10px;
+    }
+    .update-btn button {
+        width: 100%;
+        max-width: 120px;
+        min-height:35px;
+        border-radius:27px;
+        font-size:12px;
+        line-height:20px;
+        color: #FFFFFF;
+    }
+    .update-btn a {
+        font-size:12px;
+        line-height:18px;
+    }
+    .addagree-btn {
+        gap:10px;
+        margin-top:15px;
+    }
+    .add-agreement-body label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .addagree-btn button {
+        width: 100%;
+        max-width:80px;
+        min-height:40px;
+        border-radius:20px;
+        font-weight: 600;
+        font-size:12px;
+    }
+    .addagree-btn a {
+        font-size:12px;
+        line-height:14px;
+    }
+    .current-agreement-content h2 {
+        font-size:20px;
+        line-height:25px;
+    }
+    .ca-body-left a {
+        font-weight: 400;
+        font-size:14px;
+        line-height:25px;
+    }
+    .ca-body {
+        padding:10px 0;
+        gap:20px;
+    }
+    .ca-header h6 {
+        font-size:14px;
+        line-height: 24px;
+        gap:5px;
+    }
+    .ca-body-right ul li img {
+        width:15px;
+    }
+    .ca-body-right ul {
+        gap:10px;
+    }
+    .add-agreement-header h3 {
+        font-size:20px;
+        line-height:25px;
+        margin-bottom:15px;
+    }
+    .add-agreement-body select {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+    }
+    .initiatives-table tr td {
+        padding:5px 0;
+        border-bottom:1px solid #DFDFDF;
+    }
+    .initiatives-table tr td:first-child a {
+        font-size:14px;
+        line-height:25px;
+    }
+    .initiatives-table tr td:nth-child(2) {
+        font-size:14px;
+        line-height: 26px;
+    }
+    .checkbox-item ul li input {
+        width:18px;
+        height:18px;
+    }
+    .date-update input {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+    }
+    .struggling ul li {
+        font-size: 12px;
+    }
+    .p-status {
+        margin-top:15px;
+    }
+    .mt20px {
+        margin-top:10px !important;
+    }
+    .comment {
+        margin-top:20px;
+    }
+    .comment textarea {
+        width: 100%;
+        min-height:100px;
+        font-size:12px;
+    }
+    .progress-table tr td:nth-child(2) a {
+        font-size:16px;
+        line-height: 34px;
+    }
+    .progress-table tr td:nth-child(3) a {
+        font-size:14px;
+        line-height: 34px;
+    }
+    .current-agreement-content {
+        margin-top:30px;
+    }
+    .se-date-item input {
+        width: 100%;
+        min-height:40px;
+        font-size:12px;
+        padding: 0 10px;
+    }
+    .se-date-item {
+        margin-top:15px;
+    }
+    .contributions-table tr th {
+        font-size:14px;
+        line-height: 24px;
+        color: #595959;
+    }
+    .ctr2 td:nth-child(1) a {
+        font-size:14px;
+    }
+    .ctr2 td:nth-child(2) {
+        font-size: 14px;
+    }
+    .ctr2 td:nth-child(3) {
+        font-size: 14px;
+    }
+    .ctr3 td:nth-child(1) span {
+        font-size:14px;
+    }
+    .ctr5 td:nth-child(1) {
+        font-size:14px;
+    }
+    .ctr5 td:nth-child(1) a {
+        font-size:14px;
+    }
+    .likeadd-header h2 {
+        font-size:22px;
+        line-height:25px;
+    }
+    .likeadd-header p {
+        font-size:12px;
+        line-height:20px;
+    }
+    .likeadd-header {
+        margin-bottom:20px;
+    }
+    .likeadd-area {
+        margin-top:40px;
+        padding-top:40px;
+        border-top: 1px solid #1E1E1E;
+    }
+    .resetpass-item h4 {
+        font-size:25px;
+        line-height:30px;
+        margin-bottom:10px;
+    }
+    .resetpass-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .submit-btn button {
+        font-size:12px;
+    }
+    .resetpass-col {
+        min-height:350px;
+    }
+    .signin-logo a {
+        font-size:35px;
+        line-height:40px;
+        margin-bottom:40px;
+    }
+    .signin-item form > h4 {
+        font-size:25px;
+        line-height:26px;
+        margin-bottom:10px;
+    }
+    .signin-input-item label {
+        font-size:12px;
+        margin-bottom:5px;
+    }
+    .signin-input-area {
+        gap:10px;
+    }
+    .signin-login-btn label  {
+        font-size:12px;
+        gap:5px;
+    }
+    .signin-login-btn button{
+        font-size:12px;
+    }
+    .signin-login-btn button {
+        margin-top:10px;
+    }
+    .signin-area {
+        padding:30px 0;
+    }
+    .signin-item form > a {
+        font-size:12px;
+        margin-top:15px;
+    }
+    .signin-google-area h4 {
+        font-size:14px;
+        margin-bottom:0;
+    }
+    .signin-google-area a {
+        border:2px solid #DFDFDF;
+        font-size:12px;
+        padding:10px;
+    }
+    .signin-google-area a img {
+        margin-left:5px;
+        width:13px;
+    }
+    .footer-item ul li {
+        margin-bottom:5px;
+    }
+    .footer-item ul li a {
+        font-size:14px;
+    }
+    .footer-item > a img {
+        width:100px;
+    }
+ 
+
+
+
+
+}
+@media screen and (max-width:450px) {
+    .sh-left {
+        flex-direction:column;
+    }
+    .sh-right {
+        flex-direction:column;
+    }
+
+}
